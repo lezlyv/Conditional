@@ -22,3 +22,5 @@ elif(x == 1):
 else:
     print("N/A")
 #if number falls under neither category, it will print "N/A"
+
+
